@@ -26,3 +26,7 @@ C, POSIX threads (mutex, condition variable, semaphore), сигналы, Linux.
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+<sub>Код написан в ноябре–декабре 2024, на GitHub выложен в ноябре 2026. Даты коммитов взяты по датам исходных файлов, README добавлен при выгрузке.</sub>
